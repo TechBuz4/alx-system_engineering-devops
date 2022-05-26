@@ -1,1 +1,2 @@
-Creating multiple permission
+#!/bin/bash
+chmod ug+x,o+r hello
