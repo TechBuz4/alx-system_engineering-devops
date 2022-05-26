@@ -1,1 +1,1 @@
-creating same permission for olleh
+directory permissions
