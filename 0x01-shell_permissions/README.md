@@ -1,1 +1,1 @@
-if only ownership
+link permissions
