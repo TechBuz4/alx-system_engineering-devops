@@ -1,1 +1,2 @@
-Chnaging owner of file to betty
+#!/bin/bash
+chown betty hello
