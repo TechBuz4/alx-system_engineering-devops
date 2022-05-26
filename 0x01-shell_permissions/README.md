@@ -1,1 +1,1 @@
-printing the username of the current user
+printing user grops
