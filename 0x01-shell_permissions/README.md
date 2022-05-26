@@ -1,1 +1,1 @@
-Multiple permissions to all
+Changing owner and group owner
