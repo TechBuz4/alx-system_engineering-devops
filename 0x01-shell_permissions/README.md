@@ -1,1 +1,1 @@
-play star wars
+if only ownership
