@@ -1,1 +1,2 @@
-printing current username
+#!/bin/bash
+whoami

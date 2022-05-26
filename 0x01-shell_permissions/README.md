@@ -1,1 +1,1 @@
-Execute permission of the file
+printing current username
