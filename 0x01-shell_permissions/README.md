@@ -1,1 +1,1 @@
-adding permissions to the owner
+Giving users permissions only
