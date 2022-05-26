@@ -1,1 +1,1 @@
-changing file owner to betty
+Creating an empty script
