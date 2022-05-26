@@ -1,1 +1,1 @@
-Giving users permissions only
+users permission only
