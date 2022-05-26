@@ -1,1 +1,1 @@
-Creating an empty script
+Execute permission of the file
