@@ -1,1 +1,1 @@
-creating a new file
+redirecting output into a file
