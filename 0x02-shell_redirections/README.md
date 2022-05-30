@@ -1,1 +1,1 @@
-printing a smiley face
+printing the content of /etc/passwd file
