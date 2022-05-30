@@ -1,1 +1,1 @@
-printing content of /etc/passwd and /etc/hosts
+printing last ten lines of /etc/passwd
