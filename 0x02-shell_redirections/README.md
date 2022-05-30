@@ -1,1 +1,1 @@
-finding root in directory
+counting no of lines with bin 
