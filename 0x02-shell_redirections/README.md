@@ -1,1 +1,1 @@
-redirecting output into a file
+duplicating last line
