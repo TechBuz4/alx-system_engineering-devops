@@ -1,1 +1,1 @@
-counting no of lines with bin 
+displaying lines
