@@ -1,1 +1,1 @@
-removing repeated words
+finding root in directory
