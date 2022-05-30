@@ -1,1 +1,1 @@
-displaying words without bin
+displaying all lines of a file
