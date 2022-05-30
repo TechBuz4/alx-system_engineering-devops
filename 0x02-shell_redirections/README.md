@@ -1,1 +1,1 @@
- deleting js files
+counting of directories
