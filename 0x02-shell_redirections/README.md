@@ -1,1 +1,1 @@
-displaying lines
+displaying words without bin
