@@ -1,1 +1,1 @@
-printing the content of /etc/passwd file
+printing content of /etc/passwd and /etc/hosts
