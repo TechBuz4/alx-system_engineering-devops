@@ -1,1 +1,1 @@
-greeting the user
+adding to a path
