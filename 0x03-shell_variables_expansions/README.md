@@ -1,1 +1,1 @@
-binary
+combinations of letters
