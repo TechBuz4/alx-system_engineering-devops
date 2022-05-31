@@ -1,1 +1,1 @@
-creating an alias named ls
+greeting the user
