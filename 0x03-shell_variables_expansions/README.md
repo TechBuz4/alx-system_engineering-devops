@@ -1,1 +1,1 @@
-creating a varaiable
+creating a new global variable
