@@ -1,1 +1,1 @@
-a script that list environmental variables
+listing all variables and function
