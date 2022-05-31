@@ -1,1 +1,1 @@
-Counting of files
+a script that list environmental variables
